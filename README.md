@@ -1,4 +1,4 @@
-## To test the site for yourself go to https://games.odd.gay/
+## To test the site for yourself go to (https://bookdoodle.github.io/F2/)](https://bookdoodle.github.io/F2/)
 You can test the site at https://OddPvP.github.io/unblockedgames/ and our beta site is avalable at https://games.odd.gay/ If you find any bugs or issues put them in our [discord server](https://discord.gg/xksWyP9aJv) or [open an issue](https://github.com/Animationking11/unblockedgames/issues) so we can get it fixed as soon as possable!
 
 - https://oddgames.uk/
